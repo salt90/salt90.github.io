@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>SALT</title>
+    <link href="https://salt90.github.io/feed.xml" rel="self" />
+    <link href="https://salt90.github.io" />
+    <updated>2019-08-19T01:30:15+02:00</updated>
+    <author>
+        <name>SALT ARTS</name>
+    </author>
+    <id>https://salt90.github.io</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>SALT ARTS</name>
+        </author>
+        <link href="https://salt90.github.io/hello-world.html"/>
+        <id>https://salt90.github.io/hello-world.html</id>
+
+        <updated>2019-08-19T01:30:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hello
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                Hello
+            ]]>
+        </content>
+    </entry>
+</feed>
