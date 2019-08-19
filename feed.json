@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://salt90.github.io/faqs/",
+            "url": "https://salt90.github.io/faqs/",
+            "title": "FAQs",
+            "summary": "Are these original artworks?Yes. These are all original artworks, either digitally created or hand painted. These are copyrighted works and&hellip;",
+            "content_html": "<table style=\"height: 138px; width: 681px;\">\n<tbody>\n<tr>\n<td style=\"width: 190.484px;\">Are these original artworks?</td>\n<td style=\"width: 489.516px;\">Yes. These are all original artworks, either digitally created or hand painted. These are copyrighted works and exclusively licensed to SALT90.</td>\n</tr>\n<tr>\n<td style=\"width: 190.484px;\">Is SALT90 a company?</td>\n<td style=\"width: 489.516px;\">No. It is a collection or gallery of licensed artworks. It represents multiple art-creators. SALT90's contract with art-creators are non exclusive.</td>\n</tr>\n<tr>\n<td style=\"width: 190.484px;\">Why do you sell through 3rd party sites?</td>\n<td style=\"width: 489.516px;\">We sell quality prints and products like printed tee or tote bag through 3rd party vendors like Redbubble. It helps us to deliver quality products worldwide in a cost-effective way.</td>\n</tr>\n<tr>\n<td style=\"width: 190.484px;\">Do you do custom work?</td>\n<td style=\"width: 489.516px;\">Yes but selectively.  Please contact through this link.</td>\n</tr>\n<tr>\n<td style=\"width: 190.484px;\">I am an art-creator. Can I sell my works through SALT90?</td>\n<td style=\"width: 489.516px;\">Yes. Please contact us through this link.</td>\n</tr>\n</tbody>\n</table>\n<p> </p>",
+            "author": {
+                "name": "GHOSH"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-08-19T21:43:10+02:00",
+            "date_modified": "2019-08-19T23:21:49+02:00"
+        },
+        {
             "id": "https://salt90.github.io/lady-in-red/",
             "url": "https://salt90.github.io/lady-in-red/",
             "title": "Lady in Red",

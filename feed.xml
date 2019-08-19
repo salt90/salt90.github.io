@@ -3,12 +3,56 @@
     <title>SALT90</title>
     <link href="https://salt90.github.io/feed.xml" rel="self" />
     <link href="https://salt90.github.io" />
-    <updated>2019-08-19T21:33:20+02:00</updated>
+    <updated>2019-08-19T23:23:16+02:00</updated>
     <author>
         <name>GHOSH</name>
     </author>
     <id>https://salt90.github.io</id>
 
+    <entry>
+        <title>FAQs</title>
+        <author>
+            <name>GHOSH</name>
+        </author>
+        <link href="https://salt90.github.io/faqs/"/>
+        <id>https://salt90.github.io/faqs/</id>
+
+        <updated>2019-08-19T23:21:49+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Are these original artworks?Yes. These are all original artworks, either digitally created or hand painted. These are copyrighted works and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <table style="height: 138px; width: 681px;">
+<tbody>
+<tr>
+<td style="width: 190.484px;">Are these original artworks?</td>
+<td style="width: 489.516px;">Yes. These are all original artworks, either digitally created or hand painted. These are copyrighted works and exclusively licensed to SALT90.</td>
+</tr>
+<tr>
+<td style="width: 190.484px;">Is SALT90 a company?</td>
+<td style="width: 489.516px;">No. It is a collection or gallery of licensed artworks. It represents multiple art-creators. SALT90's contract with art-creators are non exclusive.</td>
+</tr>
+<tr>
+<td style="width: 190.484px;">Why do you sell through 3rd party sites?</td>
+<td style="width: 489.516px;">We sell quality prints and products like printed tee or tote bag through 3rd party vendors like Redbubble. It helps us to deliver quality products worldwide in a cost-effective way.</td>
+</tr>
+<tr>
+<td style="width: 190.484px;">Do you do custom work?</td>
+<td style="width: 489.516px;">Yes but selectively.  Please contact through this link.</td>
+</tr>
+<tr>
+<td style="width: 190.484px;">I am an art-creator. Can I sell my works through SALT90?</td>
+<td style="width: 489.516px;">Yes. Please contact us through this link.</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Lady in Red</title>
         <author>
