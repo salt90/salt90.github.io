@@ -3,7 +3,7 @@
     <title>SALT90</title>
     <link href="https://salt90.github.io/feed.xml" rel="self" />
     <link href="https://salt90.github.io" />
-    <updated>2019-08-19T14:10:04+02:00</updated>
+    <updated>2019-08-19T14:10:45+02:00</updated>
     <author>
         <name>SALT90</name>
     </author>
@@ -17,14 +17,16 @@
         <link href="https://salt90.github.io/lady-in-indigo/"/>
         <id>https://salt90.github.io/lady-in-indigo/</id>
 
-        <updated>2019-08-19T14:09:04+02:00</updated>
+        <updated>2019-08-19T14:10:39+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://salt90.github.io/media/posts/2/ework-image.jpg" alt="" />
                     Format: Digital Availability: Quality prints and products on Redbubble (worldwide delivery)
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://salt90.github.io/media/posts/2/ework-image.jpg" alt="" />
                 <div class="gallery"   >
 <figure class="gallery__item"><a href="https://salt90.github.io/media/posts/2/gallery/fwork-image.jpg" ><img src="https://salt90.github.io/media/posts/2/gallery/fwork-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://salt90.github.io/media/posts/2/gallery/gwork-image.jpg" ><img src="https://salt90.github.io/media/posts/2/gallery/gwork-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
