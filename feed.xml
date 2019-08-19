@@ -3,12 +3,41 @@
     <title>SALT90</title>
     <link href="https://salt90.github.io/feed.xml" rel="self" />
     <link href="https://salt90.github.io" />
-    <updated>2019-08-19T16:16:14+02:00</updated>
+    <updated>2019-08-19T20:26:59+02:00</updated>
     <author>
         <name>SALT90</name>
     </author>
     <id>https://salt90.github.io</id>
 
+    <entry>
+        <title>Lady in Red</title>
+        <author>
+            <name>SALT90</name>
+        </author>
+        <link href="https://salt90.github.io/lady-in-red/"/>
+        <id>https://salt90.github.io/lady-in-red/</id>
+
+        <updated>2019-08-19T20:26:45+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://salt90.github.io/media/posts/4/ttwork-image.jpg" alt="" />
+                    Format: Digital Availability: Quality prints and products at Redbubble (wordwide delivery) 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://salt90.github.io/media/posts/4/ttwork-image.jpg" alt="" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/4/gallery/Screenshot-2019-08-19-at-20.11.33.jpg" ><img src="https://salt90.github.io/media/posts/4/gallery/Screenshot-2019-08-19-at-20.11.33-thumbnail.jpg" alt="" width="387" height="517"></a></figure>
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/4/gallery/throwpillowsecondary_36x36750x1000-bgf8f8f8.jpg" ><img src="https://salt90.github.io/media/posts/4/gallery/throwpillowsecondary_36x36750x1000-bgf8f8f8-thumbnail.jpg" alt="" width="750" height="1000"></a></figure>
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/4/gallery/tt1work-image.jpg" ><img src="https://salt90.github.io/media/posts/4/gallery/tt1work-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/4/gallery/Screenshot-2019-08-19-at-20.20.36.jpg" ><img src="https://salt90.github.io/media/posts/4/gallery/Screenshot-2019-08-19-at-20.20.36-thumbnail.jpg" alt="" width="627" height="835"></a></figure>
+</div>
+<p>Format: Digital<br>Availability: Quality prints and products at <a href="https://www.redbubble.com/people/salt90/works/40675005-lady-in-red?asc=u&amp;c=1165798-women-of-colors" target="_blank" rel="noopener noreferrer">Redbubble</a> (wordwide delivery)</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Shades of Indigo</title>
         <author>
