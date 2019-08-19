@@ -3,57 +3,10 @@
     <title>SALT90</title>
     <link href="https://salt90.github.io/feed.xml" rel="self" />
     <link href="https://salt90.github.io" />
-    <updated>2019-08-19T02:28:15+02:00</updated>
+    <updated>1970-01-01T01:00:00+01:00</updated>
     <author>
-        <name>SALT ARTS</name>
+        <name>SALT90</name>
     </author>
     <id>https://salt90.github.io</id>
 
-    <entry>
-        <title>The Lady with Flowers</title>
-        <author>
-            <name>SALT ARTS</name>
-        </author>
-        <link href="https://salt90.github.io/the-lady-with-flowers/"/>
-        <id>https://salt90.github.io/the-lady-with-flowers/</id>
-
-        <updated>2019-08-19T01:47:26+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://salt90.github.io/media/posts/2/work-image-1.jpg" alt="The Lady with Flowers" />
-                    Medium: Digital Availability: On Redbubble
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://salt90.github.io/media/posts/2/work-image-1.jpg" alt="The Lady with Flowers" />
-                <div class="gallery"   >
-<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/2/gallery/work-image-1.jpg" ><img src="https://salt90.github.io/media/posts/2/gallery/work-image-1-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/2/gallery/work-image-2.jpg" ><img src="https://salt90.github.io/media/posts/2/gallery/work-image-2-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
-<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/2/gallery/work-image.jpg" ><img src="https://salt90.github.io/media/posts/2/gallery/work-image-thumbnail.jpg" alt="" width="768" height="769"></a></figure>
-</div>
-<p>Medium: Digital<br>Availability: <a href="https://www.redbubble.com/people/ontrip/works/40661423-the-lady-with-flowers" title="Buy prints and products" target="_blank" rel="noopener noreferrer">On Redbubble</a></p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Hello World</title>
-        <author>
-            <name>SALT ARTS</name>
-        </author>
-        <link href="https://salt90.github.io/hello-world/"/>
-        <id>https://salt90.github.io/hello-world/</id>
-
-        <updated>2019-08-19T01:30:04+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Hello
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                Hello
-            ]]>
-        </content>
-    </entry>
 </feed>
