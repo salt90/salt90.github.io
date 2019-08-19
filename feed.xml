@@ -3,10 +3,61 @@
     <title>SALT90</title>
     <link href="https://salt90.github.io/feed.xml" rel="self" />
     <link href="https://salt90.github.io" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2019-08-19T14:09:10+02:00</updated>
     <author>
         <name>SALT90</name>
     </author>
     <id>https://salt90.github.io</id>
 
+    <entry>
+        <title>Lady in Indigo</title>
+        <author>
+            <name>SALT90</name>
+        </author>
+        <link href="https://salt90.github.io/lady-in-indigo/"/>
+        <id>https://salt90.github.io/lady-in-indigo/</id>
+
+        <updated>2019-08-19T14:09:04+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Format: Digital Availability: Quality prints and products on Redbubble (worldwide delivery)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/2/gallery/fwork-image.jpg" ><img src="https://salt90.github.io/media/posts/2/gallery/fwork-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/2/gallery/gwork-image.jpg" ><img src="https://salt90.github.io/media/posts/2/gallery/gwork-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/2/gallery/hwork-image.jpg" ><img src="https://salt90.github.io/media/posts/2/gallery/hwork-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div>
+<p>Format: Digital<br>Availability: Quality prints and products on <a href="https://www.redbubble.com/people/salt90/works/40670509-lady-in-indigo?asc=u&amp;c=1165798-women-of-colors" target="_blank" rel="noopener noreferrer">Redbubble</a> (worldwide delivery)</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Lady in Violet</title>
+        <author>
+            <name>SALT90</name>
+        </author>
+        <link href="https://salt90.github.io/lady-in-violet/"/>
+        <id>https://salt90.github.io/lady-in-violet/</id>
+
+        <updated>2019-08-19T14:08:54+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://salt90.github.io/media/posts/1/work-image.jpg" alt="Lady in Violet" />
+                    Format: Digital Availability: Quality prints and products on Redbubble (worldwide delivery)
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://salt90.github.io/media/posts/1/work-image.jpg" alt="Lady in Violet" />
+                <div class="gallery"   >
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/1/gallery/bwork-image.jpg" ><img src="https://salt90.github.io/media/posts/1/gallery/bwork-image-thumbnail.jpg" alt="" width="768" height="769"></a></figure>
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/1/gallery/cwork-image.jpg" ><img src="https://salt90.github.io/media/posts/1/gallery/cwork-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div>
+<p>Format: Digital<br>Availability: Quality prints and products on <a href="https://www.redbubble.com/people/salt90/works/40669789-lady-in-violet?asc=u&amp;c=1165798-women-of-colors" target="_blank" rel="noopener noreferrer">Redbubble</a> (worldwide delivery)</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
