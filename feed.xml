@@ -3,12 +3,40 @@
     <title>SALT90</title>
     <link href="https://salt90.github.io/feed.xml" rel="self" />
     <link href="https://salt90.github.io" />
-    <updated>2019-08-19T23:29:55+02:00</updated>
+    <updated>2019-08-19T23:40:43+02:00</updated>
     <author>
         <name>GHOSH</name>
     </author>
     <id>https://salt90.github.io</id>
 
+    <entry>
+        <title>Lady with Flowers</title>
+        <author>
+            <name>GHOSH</name>
+        </author>
+        <link href="https://salt90.github.io/lady-with-flowers/"/>
+        <id>https://salt90.github.io/lady-with-flowers/</id>
+
+        <updated>2019-08-19T23:40:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://salt90.github.io/media/posts/6/oo1work-image.jpg" alt="" />
+                    Format: Digital Availability: Quality prints and products at Redbubble (wordwide delivery) Buy now
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://salt90.github.io/media/posts/6/oo1work-image.jpg" alt="" />
+                <p>Format: Digital<br>Availability: Quality prints and products at <a href="https://www.redbubble.com/people/salt90/works/40678335-lady-with-flowers?asc=u&amp;c=1165798-women-of-colors" target="_blank" rel="noopener noreferrer">Redbubble</a> (wordwide delivery)</p>
+<p><a class="btn" href="https://www.redbubble.com/people/salt90/works/40678335-lady-with-flowers?asc=u&amp;c=1165798-women-of-colors" target="_blank" rel="noopener noreferrer">Buy now</a></p>
+<div class="gallery"   >
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/6/gallery/oo1work-image.jpg" ><img src="https://salt90.github.io/media/posts/6/gallery/oo1work-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/6/gallery/oo2work-image.jpg" ><img src="https://salt90.github.io/media/posts/6/gallery/oo2work-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+<figure class="gallery__item"><a href="https://salt90.github.io/media/posts/6/gallery/oowork-image.jpg" ><img src="https://salt90.github.io/media/posts/6/gallery/oowork-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
+</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>FAQs</title>
         <author>
