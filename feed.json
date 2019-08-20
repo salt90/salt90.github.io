@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2019-08-20T11:20:48+02:00",
-            "date_modified": "2019-08-20T11:31:14+02:00"
+            "date_modified": "2019-08-20T11:34:14+02:00"
         },
         {
             "id": "https://salt90.github.io/lady-in-red-2/",
@@ -82,20 +82,6 @@
             ],
             "date_published": "2019-08-19T20:26:45+02:00",
             "date_modified": "2019-08-19T21:33:15+02:00"
-        },
-        {
-            "id": "https://salt90.github.io/shades-of-indigo/",
-            "url": "https://salt90.github.io/shades-of-indigo/",
-            "title": "Shades of Indigo",
-            "summary": "10.6% red, 23.9% green and 46.3% blue",
-            "content_html": "<p><img class=\"post__image--center\" src=\"https://salt90.github.io/media/posts/3/Screenshot-2019-08-19-at-15.03.06.jpg\" alt=\"Shades of Indigo\" width=\"845\" height=\"116\"></p>\n<h2 id=\"mcetoc_1dikvpquh0\" class=\"msg msg--highlight \">10.6% red, 23.9% green and 46.3% blue</h2>",
-            "author": {
-                "name": "GHOSH"
-            },
-            "tags": [
-            ],
-            "date_published": "2019-08-19T15:08:52+02:00",
-            "date_modified": "2019-08-19T15:16:03+02:00"
         },
         {
             "id": "https://salt90.github.io/lady-in-indigo/",

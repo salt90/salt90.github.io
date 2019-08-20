@@ -3,7 +3,7 @@
     <title>SALT90</title>
     <link href="https://salt90.github.io/feed.xml" rel="self" />
     <link href="https://salt90.github.io" />
-    <updated>2019-08-20T11:33:01+02:00</updated>
+    <updated>2019-08-20T11:34:35+02:00</updated>
     <author>
         <name>GHOSH</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://salt90.github.io/contact/"/>
         <id>https://salt90.github.io/contact/</id>
 
-        <updated>2019-08-20T11:31:14+02:00</updated>
+        <updated>2019-08-20T11:34:14+02:00</updated>
             <summary>
                 <![CDATA[
                      powered by Typeform
@@ -143,27 +143,6 @@
 <figure class="gallery__item"><a href="https://salt90.github.io/media/posts/4/gallery/ttwork-image.jpg" ><img src="https://salt90.github.io/media/posts/4/gallery/ttwork-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://salt90.github.io/media/posts/4/gallery/ytywork-image.jpg" ><img src="https://salt90.github.io/media/posts/4/gallery/ytywork-image-thumbnail.jpg" alt="" width="768" height="768"></a></figure>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Shades of Indigo</title>
-        <author>
-            <name>GHOSH</name>
-        </author>
-        <link href="https://salt90.github.io/shades-of-indigo/"/>
-        <id>https://salt90.github.io/shades-of-indigo/</id>
-
-        <updated>2019-08-19T15:16:03+02:00</updated>
-            <summary>
-                <![CDATA[
-                    10.6% red, 23.9% green and 46.3% blue
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p><img class="post__image--center" src="https://salt90.github.io/media/posts/3/Screenshot-2019-08-19-at-15.03.06.jpg" alt="Shades of Indigo" width="845" height="116"></p>
-<h2 id="mcetoc_1dikvpquh0" class="msg msg--highlight ">10.6% red, 23.9% green and 46.3% blue</h2>
             ]]>
         </content>
     </entry>
